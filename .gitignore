@@ -1,0 +1,5 @@
+## For Normal java project on VScode exclude bin,.vscode,lib folder
+## Path git folder project
+chap*/**/bin/
+chap*/**/.vscode/
+chap*/**/lib/
